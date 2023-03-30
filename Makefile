@@ -6,4 +6,3 @@ deploy: build
 	@echo "Deploy my awesome app"
 	@sleep 6s
 	@echo "Done"
-
